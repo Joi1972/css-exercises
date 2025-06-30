@@ -1,0 +1,25 @@
+/* styles.css */
+
+.myclass {
+
+background:pink; 
+font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.myclass.cooler {
+
+font-size: 36px;    
+}
+
+
+#title {
+    color:blue;
+    font-size: 36px;
+}
+
+#another {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
